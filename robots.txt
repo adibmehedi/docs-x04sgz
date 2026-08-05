@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-5t1246.koi888win.sbs/sitemap.xml
